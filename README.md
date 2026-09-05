@@ -7,7 +7,7 @@ IT Student & Tech Enthusiast passionate about **Networking**, and **Web Developm
 ### 🧰 Tech Stack & Tools
 
 * **Networking:** Cisco Networking / CCNA, Packet Tracer, Routing & Switching
-* **Programming & Web:** JPython, C++, HTML5, CSS3, Google Apps Script
+* **Programming & Web:** Python, C++, HTML5, CSS3 
 * **Automation & Environment:** Docker, n8n, Ubuntu (WSL), GitHub Pages
 
 ---
