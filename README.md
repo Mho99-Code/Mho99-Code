@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Hisham Osman!
 
-IT Student & Tech Enthusiast passionate about **Networking**, and **Web Development**
+IT Student & Tech Enthusiast passionate about **Networking** and **Web Development**
 
 ---
 
@@ -14,6 +14,7 @@ IT Student & Tech Enthusiast passionate about **Networking**, and **Web Developm
 
 ### 🚀 Key Projects
 
+* **Sudan Taste (مذاق السودان):** A modern, responsive restaurant web page featuring menu displays and contact details, fully optimized for mobile devices and hosted on GitHub Pages.
 * **ISLEY STORE:** An e-commerce platform supplying electronic components & Arduino modules to students, hosted on GitHub Pages with Google Apps Script backend.
 
 ---
